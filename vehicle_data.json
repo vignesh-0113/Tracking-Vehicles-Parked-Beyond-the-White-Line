@@ -1,0 +1,17 @@
+{
+    "incidents": [
+      {
+        "id": 1,
+        "vehicle_number": "BH 22 GH 5656",
+        "license": "TamilNadu TN",
+        "detection_time": "03.00"
+      },
+      {
+        "id": 2,
+        "vehicle_number": "BH 23 GH 5651",
+        "license": "TamilNadu TN",
+        "detection_time": "07.00"
+      }
+    ]
+  }
+  
